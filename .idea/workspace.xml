@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2ccc0908-c6d8-4aac-a0b0-ee4b59d43a85" name="Default" comment="" />
+    <list default="true" id="2ccc0908-c6d8-4aac-a0b0-ee4b59d43a85" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/Week3/Dicts.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Week3/Strings.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Week3/Week 2 Recap.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Week3/Week3 Exercises.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Week3/leap_year_solution.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Week3/while_loops.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/week2/Week 2.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/week2/week1_recap.ipynb" />
+      <change beforePath="$PROJECT_DIR$/week3/Dicts.ipynb" afterPath="$PROJECT_DIR$/week3/Dicts.ipynb" />
+      <change beforePath="$PROJECT_DIR$/week3/Strings.ipynb" afterPath="$PROJECT_DIR$/week3/Strings.ipynb" />
+      <change beforePath="$PROJECT_DIR$/week3/Week 2 Recap.ipynb" afterPath="$PROJECT_DIR$/week3/Week 2 Recap.ipynb" />
+      <change beforePath="$PROJECT_DIR$/week3/Week3 Exercises.ipynb" afterPath="$PROJECT_DIR$/week3/Week3 Exercises.ipynb" />
+      <change beforePath="$PROJECT_DIR$/week4/comtinue_puzzle.py" afterPath="$PROJECT_DIR$/week4/comtinue_puzzle.py" />
+      <change beforePath="$PROJECT_DIR$/week4/divisors_puzzle.py" afterPath="$PROJECT_DIR$/week4/divisors_puzzle.py" />
+      <change beforePath="$PROJECT_DIR$/week4/fizzbuzz.py" afterPath="$PROJECT_DIR$/week4/fizzbuzz.py" />
+      <change beforePath="$PROJECT_DIR$/week4/letter_dict_puzzle.py" afterPath="$PROJECT_DIR$/week4/letter_dict_puzzle.py" />
+      <change beforePath="$PROJECT_DIR$/week4/prime_test.py" afterPath="$PROJECT_DIR$/week4/prime_test.py" />
+      <change beforePath="$PROJECT_DIR$/week4/prime_test_puzzle.py" afterPath="$PROJECT_DIR$/week4/prime_test_puzzle.py" />
+      <change beforePath="$PROJECT_DIR$/week4/string_case_counter_puzzle.py" afterPath="$PROJECT_DIR$/week4/string_case_counter_puzzle.py" />
+      <change beforePath="$PROJECT_DIR$/wk1.py" afterPath="" />
+    </list>
     <ignored path=".env1/" />
     <ignored path="comp-prog-python-cheat-sheet-1-l.jpg" />
     <ignored path="comp-prog-python-cheat-sheet-2-l.jpg" />
@@ -27,6 +48,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/week1.ipynb" />
+        <option value="$PROJECT_DIR$/week4/fizzbuzz.py" />
       </list>
     </option>
   </component>
@@ -36,7 +58,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1616" />
@@ -68,8 +90,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -134,7 +156,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -142,7 +164,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32823366" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25609756" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25930682" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="R Packages" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="R Graphics" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -175,15 +197,13 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/comp-prog-python-cheat-sheet-1-l.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week1.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="26" />
+    <entry file="file://$PROJECT_DIR$/comp-prog-python-cheat-sheet-1-l.jpg" />
+    <entry file="file://$PROJECT_DIR$/week1.ipynb" />
+    <entry file="file://$PROJECT_DIR$/week4/fizzbuzz.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
