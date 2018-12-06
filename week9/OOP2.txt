@@ -1,0 +1,26 @@
+Inheritance Exercise
+1.	
+Create a bank account class that contains the following attributes and methods:
+Attributes: name , address, account_number, balance, pending_pos,  pending_neg
+Methods: funds_available  (balance+pending_pos – pending_neg)
+
+2.	
+Create two subclasses : regular account and savings account.
+A.	The regular account contains all attributes and methods from Bankaccount and the following:
+Attributes:  fee (€20), feewaiver(‘y’ or ‘n’), cards (€30)
+Methods: updatefeewaiver (if the funds_available >2000 , feewaiver ‘y’otherwise ‘n’
+chargefee (if feewaiver is no, pending_neg=fee)
+
+B.	The savings account contains all attributes and methods from Bankaccount and the following:
+Attributes: pending_neg=0 money cannot be removed from the account
+Methods: funds_available (balance+pending_pos)
+cashinterest (0.1% of balance added)
+
+3.	
+Create some regular and savings accounts, use a function returning a list.
+4.	
+Save that file as bankfile and import it into another one called banksystem. In this file, calculate the following:
+-Given a customer name, find their available funds.  
+-Find all accounts from Dublin, return the name of the account holder.
+-Find all customers with savings accounts.
+-Charge the annual fee to all customers who are not entitled to the fee waiver.
