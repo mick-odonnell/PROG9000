@@ -1,0 +1,21 @@
+id,vendor,type,address,num_rooms,bathrooms,size,parking_spots,price,cash_buyer_preferred,sale_type,level,has_lift,has_balcony,maintenance_fee,floors,garden_size,attic_conversion,garage
+2828,12,house,"5 Braemor Drive, Churchtown, Co.Dublin",4,1,60,TRUE,343000,FALSE,AUCTION,,,,,1,1333.333333,TRUE,FALSE
+32300,32,house,"134 Ashewood Walk, Summerhill Lane, Portlaoise",7,2,105,TRUE,185000,FALSE,PRIVATE TREATY,,,,,2,3541.666667,TRUE,TRUE
+122092,54,house,"1 Meadow Avenue, Dundrum, Dublin 14",9,3,135,TRUE,438500,TRUE,AUCTION,,,,,3,1437.5,TRUE,TRUE
+12123,55,house,"1 The Haven, Mornington",5,1,75,FALSE,400000,TRUE,PRIVATE TREATY,,,,,1,1479.166667,TRUE,TRUE
+120223,44,house,"11 Melville Heights, Kilkenny",3,3,45,FALSE,160000,TRUE,AUCTION,,,,,2,1500,FALSE,FALSE
+102303,66,house,"12 Sallymount Avenue, Ranelagh",5,3,75,FALSE,425000,TRUE,PRIVATE TREATY,,,,,3,1054.166667,TRUE,TRUE
+32838,75,house,"13  Oakleigh Wood, Dooradoyle, Limerick",9,1,135,TRUE,172500,TRUE,AUCTION,,,,,1,916.6666667,TRUE,FALSE
+39338,44,house,"13 The Drive, Chapelstown Gate, Tullow Road",11,2,165,FALSE,177500,TRUE,PRIVATE TREATY,,,,,2,3583.333333,TRUE,TRUE
+200043,56,house,"15 Carriglawn, Waterpark, Carrigaline",5,3,75,TRUE,180000,FALSE,AUCTION,,,,,3,2958.333333,FALSE,TRUE
+23023,76,house,"15a Moore Bay, Kilkee",11,1,165,TRUE,126500,TRUE,PRIVATE TREATY,,,,,1,15000,TRUE,TRUE
+29299,4443,house,"16 Aisling Geal, Fr. Russell Road",9,3,135,TRUE,110000,TRUE,AUCTION,,,,,2,2933.333333,FALSE,TRUE
+328274,67,apartment,"206 Philipsburgh Avenue, Marino, Dublin 3",11,3,165,FALSE,430000,TRUE,PRIVATE TREATY,1,TRUE,TRUE,1096.25,,,,
+202938,33,apartment,"22 Laverna Way, Castleknock, Dublin 15",8,1,120,FALSE,355000,FALSE,AUCTION,2,FALSE,TRUE,1000,,,,
+3939329,56,apartment,"23 Elton Park, Sandycove",8,2,120,FALSE,1800000,TRUE,PRIVATE TREATY,3,TRUE,TRUE,400,,,,
+30303,77,apartment,"25  Lavallin Drive, Whitechurch, Cork",7,3,105,FALSE,352000,FALSE,AUCTION,4,FALSE,TRUE,1062.5,,,,
+3039348,8,apartment,"25 Fairway Lawns, Bettystown",7,1,105,FALSE,273000,TRUE,PRIVATE TREATY,5,TRUE,FALSE,431.25,,,,
+32030394,75,apartment,"29 Carysfort Woods, Blackrock",9,3,135,TRUE,547500,TRUE,AUCTION,6,TRUE,TRUE,443.75,,,,
+3030034,45,apartment,"33 RAGIAN ROAD, BALLSBRIDGE, DUBLIN 4",9,3,135,FALSE,700000,TRUE,PRIVATE TREATY,7,TRUE,TRUE,450,,,,
+403838,53,apartment,"4 Hawthorn Court, Collooney",6,1,90,TRUE,220000,TRUE,AUCTION,8,TRUE,TRUE,316.25,,,,
+3203043,87,apartment,"44 Allen Park Road, Stillorgan, County Dublin",4,2,60,FALSE,350000,FALSE,PRIVATE TREATY,9,FALSE,FALSE,275,,,,
