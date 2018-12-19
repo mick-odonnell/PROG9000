@@ -5,7 +5,7 @@ import collections
 
 
 class Shop_Manager:
-    def __init__(self, vehicle_list):
+    def __init__(self):
         self.fleet = {}
 
     def load_cars(self, vehicles):
@@ -52,11 +52,46 @@ class Vehicle:
 class Car(Vehicle):
     def __init__(self, regnum, make, model, efficiency, seats, daily_cost, weekly_cost, weekend_cost,
                  doors):
-        super().__init__(self, regnum,  make, model, efficiency, seats, daily_cost, weekly_cost, weekend_cost)
+        super().__init__(regnum,  make, model, efficiency, seats, daily_cost, weekly_cost, weekend_cost)
         self.doors = doors
 
 class Van(Vehicle):
     def __init__(self, regnum, make, model, efficiency, seats, daily_cost, weekly_cost, weekend_cost):
-        super().__init__(self, regnum, make, model, efficiency, seats, daily_cost, weekly_cost, weekend_cost)
+        super().__init__(regnum, make, model, efficiency, seats, daily_cost, weekly_cost, weekend_cost)
 
 
+def main():
+    v_list = [{'regnum': "01-KK-12345",
+               'make': 'Volkswagen',
+               'model': 'Passat',
+               'efficiency': 30,
+               'seats': 5,
+               'daily_cost': 40,
+               'weekly_cost': 220,
+               'weekend_cost': 65,
+               'doors': 4},
+              {'regnum': "12-WD-12345",
+               'make': 'Peugeot',
+               'model': '406',
+               'efficiency': 30,
+               'seats': 4,
+               'daily_cost': 45,
+               'weekly_cost': 230,
+               'weekend_cost': 66},
+              {'regnum': "13-KK-145",
+               'make': 'Renault',
+               'model': 'Kangoo',
+               'efficiency': 32,
+               'seats': 2,
+               'daily_cost': 43,
+               'weekly_cost': 290,
+               'weekend_cost': 60}
+              ]
+
+    shop_instance = Shop_Manager()
+    shop_instance.load_cars(v_list)
+
+    print(shop_instance)
+
+if __name__ == '__main__':
+    main()

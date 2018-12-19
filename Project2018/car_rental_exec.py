@@ -58,7 +58,13 @@ class CarRental(QtWidgets.QMainWindow, Ui_MainWindow):
                    'weekend_cost': 60}
                   ]
 
-        self.shop_instance = ro.Shop_Manager(v_list)
+        self.shop_manager = None
+        self.build_system(v_list)
+
+    def build_system(self, the_vehicles):
+        self.shop_manager = ro.Shop_Manager()
+        self.shop_manager.load_cars(the_vehicles)
+
     # ----------------------------------------------------
     # Manage User Interaction
     # ----------------------------------------------------
